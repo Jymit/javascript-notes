@@ -10,13 +10,19 @@ npm install -g npm@8.3.0
 
 node app.js
 
+# node
+
+node -- server-side JavaScript runtime
+
 # npm
+
+npm - javascript package manager
 
 npm is. Node Package Manager the world's largest software library (registry), as well as a software package manager and installer.
 
 # graphql
 
-graphql is 
+graphql is. GraphQL is a query language created by Facebook in 2012 and open-sourced in 2015. It aims to provide an alternative to traditional REST API architecture. At its core, GraphQL provides a syntax that describes how to ask for data (called a Schema). GraphQL is database agnostic and works by creating a single endpoint responsible for accepting queries, rather than relying on the REST API approach of having separate endpoints for each service.
 
 https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
 
